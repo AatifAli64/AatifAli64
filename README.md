@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=AatifAli64&label=Profile%20Views&color=0e76a8&style=flat-square" alt="AatifAli64" />
 </p>
 
-I am a **Cybersecurity student (6th Semester)** based in Islamabad, Pakistan, with a strong focus on security engineering, dynamic threat detection, automated defensive systems, and digital forensics. I specialize in bridging the gap between low-level system design and high-level AI automation (RAG, Machine Learning) to secure complex environments.
+I am a **Cybersecurity student (7th Semester)** based in Islamabad, Pakistan, with a strong focus on security engineering, dynamic threat detection, automated defensive systems, and digital forensics. I specialize in bridging the gap between low-level system design and high-level AI automation (RAG, Machine Learning) to secure complex environments.
 
 ---
 
